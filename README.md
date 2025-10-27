@@ -22,7 +22,9 @@ The analysis revealed that while overall sales growth was largely driven by a na
 
 In terms of channels, **Online sales** generated the highest total revenue due to volume, while **In-store sales** achieved the highest **Average Revenue per Unit (ARPU)**, reflecting premium customer behavior. Among retailers, **West Gear** emerged as the dominant force behind the January 2021 surge, maintaining the highest total sales and ARPU overall.
 
-These insights collectively highlight the importance of regional targeting, channel-specific strategies, and retailer optimization for sustaining profitability across the U.S. market.
+These insights collectively highlight the importance of regional targeting, channel-specific strategies, and retailer optimization for sustaining profitability across the U.S. 
+
+![image](https://github.com/user-attachments/assets/ccaf37e7-d488-4aac-ab62-827cd03011df)
 
 ---
 
@@ -34,10 +36,16 @@ These insights collectively highlight the importance of regional targeting, chan
 - The **Midwest**—previously underperforming—saw rapid growth in 2021, contributing significantly to nationwide sales increases.
 - Despite growing regional diversity, the **West** maintained the **highest ARPU ($53.04)**, showing strong pricing power.
 
+![image](https://github.com/user-attachments/assets/0cd3b6b4-ba08-4b83-819a-ec2f5be52d39)
+
+
 ### 2. Product Pricing & Demand Trends
 - Sales spikes were primarily volume-driven rather than price-driven, as Average Price per Unit remained stable through 2021.
 - Products with moderate pricing achieved the strongest performance, reflecting strong elasticity between price and unit demand.
 - The use of **APU as a proxy for AOV (Average Order Value)** allowed revenue-based performance comparisons despite dataset limitations.
+
+![image](https://github.com/user-attachments/assets/c7946a0e-b573-4dc1-bac4-de99446bdf54)
+
 
 ### 3. Sales Channel Insights
 - **In-store sales** delivered the **highest ARPU**, reflecting premium purchases.
@@ -45,12 +53,20 @@ These insights collectively highlight the importance of regional targeting, chan
 - **Outlet sales** had the lowest ARPU, suggesting discount-led transactions.
 - Customer behaviors clearly differed across channels—premium in-store, convenience-driven online, and value-oriented in outlets.
 
+![image](https://github.com/user-attachments/assets/6f097dc9-097e-4d84-b818-5069bf654dc3)
+
+
 ### 4. Retailer Performance
 - **West Gear** contributed **44.5% of the national sales spike** in January 2021 — the largest single driver of growth.
 - It also achieved the **highest total sales ($32.4M)** and **ARPU ($51.8)**, proving its dominance.
 - **Foot Locker** ranked second with strong sales ($29M), while **Walmart** and **Amazon** showed high ARPU despite lower volumes.
 - **Sports Direct** relied on volume at lower margins (ARPU $44.1), and **Kohl’s** maintained moderate performance.
 - These results form a **Retailer Performance Matrix**, mapping each retailer’s balance between volume and per-unit profitability.
+
+![image](https://github.com/user-attachments/assets/adf58a29-55ab-4824-8335-59bea06aa501)
+
+![image](https://github.com/user-attachments/assets/16fa09de-eecc-4aba-80f2-b8d756ea7677)
+
 
 ---
 
