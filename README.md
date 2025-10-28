@@ -14,8 +14,8 @@ Insights and recommendations are provided on the following key areas:
 
 📂 The project files used for this analysis can be accessed below:
 
-- [Adidas US Sales Portfolio Project (Excel)](https://github.com/longmanx2000/Portfolio-Projects/blob/main/Adidas%20US%20Sales%20Portfolio%20Project%20(1).xlsx)
-- [Adidas Sales Portfolio Project (Power BI)](https://github.com/longmanx2000/Portfolio-Projects/blob/main/Adidas%20Sales%20Portfolio%20Project.pbix)
+- [Adidas US Sales Portfolio Project (Excel)](https://github.com/longmanx2000/Adidas_Portfolio_Project/blob/main/Adidas%20US%20Sales%20Portfolio%20Project%20(1).xlsx)
+- [Adidas Sales Portfolio Project (Power BI)](https://github.com/longmanx2000/Adidas_Portfolio_Project/blob/main/Adidas%20Sales%20Portfolio%20Project.pbix)
 
 ---
 
