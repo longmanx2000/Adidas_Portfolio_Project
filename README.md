@@ -70,14 +70,38 @@ These insights collectively highlight the importance of regional targeting, chan
 
 ---
 
-## 💡 Recommendations
+## Recommendations 
+### 1. Regional Performance
+- Replicate the **West’s early-year strategies** across other regions to boost Q1 performance.  
+- Align **marketing and inventory** with each region’s seasonal sales peaks.  
+- Develop **region-specific forecasts** to anticipate demand shifts and improve stock planning.  
+- Continue **supporting regional growth** in the South, Midwest, and Northeast to sustain national momentum.  
+- Analyze and adapt the **West’s high-performing strategies** for developing regions.  
 
-1. **Replicate West Gear’s strategy** across other retailers to sustain nationwide sales momentum.  
-2. **Support regional growth** by investing in the Midwest, South, and Northeast, while preserving West’s pricing advantage.  
-3. **Tailor marketing by channel** — premium assortments for in-store, volume campaigns for online, and clearance strategies for outlets.  
-4. **Monitor ARPU and volume** simultaneously to balance profit per unit with total sales volume.  
-5. **Refine regional forecasts** and inventory allocations to anticipate demand shifts more accurately.  
+---
 
+### 2. Product Pricing & Demand Trends
+- Leverage **price resilience** by optimizing pricing strategies—small, data-driven increases can sustain profitability.  
+- Apply **price elasticity modeling** to find ideal price points that maximize revenue.  
+- Reinforce **brand loyalty programs** to sustain demand even with higher prices.  
+- Track **price-demand correlations** to anticipate shifts in consumer sensitivity.  
+
+---
+
+### 3. Sales Channel Insights
+- Enhance **Retail channel campaigns** during key months to maintain strong volume.  
+- Expand **Online marketing** through targeted digital promotions and exclusive product drops.  
+- Use **Outlet stores** to stabilize sales during off-peak months and manage inventory overflow.  
+- Regularly assess **channel-level profitability** to balance marketing spend with return efficiency.  
+
+---
+
+### 4. Retailer Performance
+- **Leverage West Gear’s success** as a model for other retail partners.  
+- Strengthen **Foot Locker’s performance** through premium assortments and targeted promotions.  
+- **Capitalize on Amazon and Walmart’s potential** by developing premium or exclusive online collections.  
+- **Improve Sports Direct’s margins** by optimizing product mix and refining discount strategies.  
+- Continuously **monitor retailer KPIs** to identify which outlets are driving sales spikes.  
 ---
 
 ## ⚙️ Caveats and Assumptions
