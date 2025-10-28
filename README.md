@@ -12,7 +12,10 @@ Insights and recommendations are provided on the following key areas:
 - **Sales Channel Insights**
 - **Retailer Performance**
 
-🔗 *The Excel and Power BI files used for this analysis will be available here once uploaded.*
+📂 The project files used for this analysis can be accessed below:
+
+- [Adidas US Sales Portfolio Project (Excel)](https://github.com/longmanx2000/Portfolio-Projects/blob/main/Adidas%20US%20Sales%20Portfolio%20Project%20(1).xlsx)
+- [Adidas Sales Portfolio Project (Power BI)](https://github.com/longmanx2000/Portfolio-Projects/blob/main/Adidas%20Sales%20Portfolio%20Project.pbix)
 
 ---
 
